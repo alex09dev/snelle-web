@@ -13,6 +13,6 @@
     "typescript": "^5.8.2"
   },
   "dependencies": {
-    "snelle": "0.0.17"
+    "snelle": "0.0.19"
   }
 }
