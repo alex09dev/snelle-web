@@ -1,0 +1,17 @@
+{
+  "name": "snelle-web",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "snelle dev"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "snelle": "0.0.13"
+  }
+}
