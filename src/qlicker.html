@@ -54,6 +54,10 @@
         })
         naps.value = localStorage.getItem("naps") ?? 0
 
+        document.querySelector(".pou").addEventListener("click", () => {
+            naps.value = a = parseInt(naps.value) + 1
+        })
+
     </script>
 </body>
 
